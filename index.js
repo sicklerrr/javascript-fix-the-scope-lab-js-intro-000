@@ -11,7 +11,6 @@ function yourAnimal() {
 
 function add2(n) {
   const two = 2
-  var n = 602
   return n + two
 }
 
